@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on building scalable web applications with Next.js and modern tech  <br>👯 I’m looking to collaborate on web development and AI-based projects  <br>🤝 I’m looking for help with advanced backend architecture and system design  <br>🌱 I’m currently learning AI, automation, and performance optimization  <br>💬 Ask me about React, Next.js, and full-stack development  <br>⚡ Fun fact: I turn coffee into clean and efficient code
+🔭 I’m currently working on building scalable web applications with Next.js and modern tech  <br>
+👯 I’m looking to collaborate on web development and AI-based projects  <br>
+🌱 I’m currently learning AI, automation, and performance optimization  <br>
+⚡ Fun fact: I turn coffee into clean and efficient code
 
 
 ## 🌐 Socials:
